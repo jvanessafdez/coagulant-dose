@@ -3,5 +3,4 @@
 ## [changes]
 
 - Se crea repositorio
-- Se adiciona carpeta de data
-- se adicionan archivos .ipynb
+- Se adiciona carpeta src

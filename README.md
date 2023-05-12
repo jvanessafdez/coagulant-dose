@@ -14,7 +14,9 @@ Asegúrate de tener instalado jupyter Notebook
 2. Ingresa a la carpeta del proyecto:
    cd coagulant-dose
 3. Agrega una carpeta llamada data donde descargarás la data que encontrarás en el siguiente link:
-   https://drive.google.com/drive/folders/1B8YwqbyFcmgaqZOhkWH2ptYLNOn0AAr_?usp=sharing
+   https://drive.google.com/drive/folders/1PgkEmWqKWs9XaW3f9bQ3COVVeSmYTp40?usp=sharing
+4. Agrega una carpeta llamada data_edit donde descargarás la data que encontrarás en el siguiente link:
+   https://drive.google.com/drive/folders/1GGXh1Cukv5dCiYQT2xx8gGMgMLV0I_5A?usp=sharing
 
 ## Ejecución
 

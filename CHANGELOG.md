@@ -1,3 +1,11 @@
+## 1.2.0 Actualizaciones y adiciones al repositorio
+
+## [Changes]
+
+- Añadido notebook para análisis exploratorio de outliers
+- Adición de notebook para el análisis de tendencias temporales en los datos
+- Incorporación de notebook para un análisis de separación de datos entre coagulante líquido y en granulado
+
 # 1.1.0 Actualizaciones y adiciones al repositorio
 
 ## [Changes]

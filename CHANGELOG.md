@@ -1,3 +1,12 @@
+## 1.3.0 Actualizaciones y adiciones al repositorio
+
+### [Changes]
+
+- Agregado cuaderno EDA COMPLETO Y ANÁLISIS
+- Añadido cuaderno de exploración de datos faltantes
+- Añadido cuaderno de proceso de imputación
+- Incorporación de cuaderno de preprocesamiento final
+
 ## 1.2.0 Actualizaciones y adiciones al repositorio
 
 ## [Changes]

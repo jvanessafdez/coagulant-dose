@@ -2,7 +2,7 @@
 
 ### [Changes]
 
-- Agregado cuaderno EDA COMPLETO Y ANÁLISIS
+- Agregado cuaderno EDA completo y análisis de los datos
 - Añadido cuaderno de exploración de datos faltantes
 - Añadido cuaderno de proceso de imputación
 - Incorporación de cuaderno de preprocesamiento final
